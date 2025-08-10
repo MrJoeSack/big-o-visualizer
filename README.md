@@ -15,6 +15,8 @@ An interactive web application that visually demonstrates different Big O comple
 
 Open `index.html` in any modern web browser. No installation required!
 
+![Big O Visualizer Demo](big-o-demo-short.gif)
+
 ## 📊 Complexity Classes Explained
 
 ### O(1) - Constant Time
